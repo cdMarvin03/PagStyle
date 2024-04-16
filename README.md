@@ -1,0 +1,2 @@
+# PagStyle
+Style WEB pages.
